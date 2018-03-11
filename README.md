@@ -17,6 +17,9 @@ My markdown file like the following:
 
 
 
-[1] : https://support.apple.com/contact
-[2] : https://github.com/Adaxry/Markdown_CSS/blob/master/pic/origin_pic.png
-[3] : https://github.com/Adaxry/Markdown_CSS/blob/master/pic/my_markdown_pic.png
+[1]: https://support.apple.com/contact
+[2]: https://github.com/Adaxry/Markdown_CSS/blob/master/pic/origin_pic.png
+[3]: https://github.com/Adaxry/Markdown_CSS/blob/master/pic/my_markdown_pic.png
+
+
+  
