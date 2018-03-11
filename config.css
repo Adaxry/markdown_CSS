@@ -1,0 +1,39 @@
+/*一级标题*/
+h1 { 
+      font-size : 34px;
+      color : rgb(51, 51, 51);
+        /*San Francisco Text*/
+}
+
+h2{
+      font-size : 28px;
+      color : rgb(51, 51, 51);
+}
+
+h3{
+      font-size : 22px;
+      color : rgb(51, 51, 51);
+}
+
+h4{
+      font-size : 19px;
+      color : rgb(51, 51, 51);
+}
+
+p{ /*正文 */
+      font-size : 17px;
+      color : rgb(51, 51, 51);
+}
+li{ /*强调内容*/
+      font-size : 17px;
+      color : rgb(51, 51, 51);
+      padding-bottom : 10px; /*间隔*/
+}
+
+a{ /*链接*/
+      color : rgb(0, 112, 201)；
+}
+
+span{ /*自定义字体的正文*/
+       color : rgb(51, 51, 51)；
+}
