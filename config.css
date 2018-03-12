@@ -37,3 +37,6 @@ a{ /*链接*/
 span{ /*自定义字体的正文*/
        color : rgb(51, 51, 51)；
 }
+strong{ 
+       font-size : 18px;
+}
